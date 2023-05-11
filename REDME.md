@@ -1,0 +1,11 @@
+- [ ]  npm init -y
+- [ ]  tsc -init
+- [ ]  install ts-node-dev
+- [ ]  npm i ts-node-dev --save-dev
+- [ ]  config package.json for ts-node-dev
+- [ ]  "start": "ts-node-dev --respawn --transpile-only index.ts",
+- [ ]  src folder for ts files
+- [ ]  dist folder for js files
+- [ ]  config the tsconfig.json file, {rootdir - src folder, outdir - dist folder}
+- [ ]  run tsc
+- [ ]  run npx ts-node-dev --respawn
